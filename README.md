@@ -1,5 +1,5 @@
 # Lexical-Substitution
-Project for Natural Language Processing Course at Columbia University's School of Engineering and Applied Science, Nov 2022
+Project for Natural Language Processing Course (COMS 4705) at Columbia University's School of Engineering and Applied Science, Nov 2022
 
 Introduction:
 In this assignment I worked on a lexical substitution task, using, WordNet, pre-trained Word2Vec embeddings, and BERT. This task was first proposed as a shared task at SemEval 2007 Task 10 (http://nlp.cs.swarthmore.edu/semeval/tasks/task10/description.php). In this task, the goal is to find lexical substitutes for individual target words in context. For example, given the following sentence:

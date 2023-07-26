@@ -21,3 +21,10 @@ Packages Used:
 - WordNet interface = large lexical database of English
 - Gensim = vector space modeling package for Python
 - Pre-trained Word2Vec embeddings = trained using a modified skip-gram architecture on 100B words of Google News text, with a context window of +-5; have 300 dimensions.
+
+Project Parts:
+1. Candidate Synonyms from WordNet
+2. WordNet Frequency Baseline
+3. Simple Lesk Algorithm
+4. Most Similar Synonym
+5. Using BERT's masked language model
